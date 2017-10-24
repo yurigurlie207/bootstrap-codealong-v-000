@@ -13,3 +13,5 @@ Finally, because this is a simple code-along, you won't actually have to submit 
 (And yes, we'll be updating the video ASAP!)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='Bootstrap Code-Along'>Bootstrap Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+This is an example website using the Twitter Bootstrap v3 framework. More information on using Bootstrap can be found at http://getbootstrap.com
